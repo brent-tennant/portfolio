@@ -1,0 +1,14 @@
+.navbar .navbar-brand {
+  color: #fff;
+  font-size: 1rem;
+  padding-top:.45rem;
+}
+
+.jumbotron {
+  background: url('../img/pdx.jpg');
+  background-size: cover;
+}
+
+.btn, .active {
+  transition: .4s;
+}
